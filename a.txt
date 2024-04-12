@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hjfghjf
+=======
+yhjkgbhjfhj
+>>>>>>> 64de400... hj
